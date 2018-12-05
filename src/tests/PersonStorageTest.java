@@ -99,7 +99,6 @@ public class PersonStorageTest {
 		
 		assertEquals(donDraper, people.get(0));
 		assertEquals(peggyOlson, people.get(1));
-		
 	}
 	
 	@After
